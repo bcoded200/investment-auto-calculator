@@ -20,7 +20,7 @@ A php script that automatically calculates investments , return the exact roi at
                  
                http://yoururl.com/investment-auto-calculator/
   
-  go to crunjob.php and comment out the first line with te below code , e.g remove the trailling double slashes at the begining of the code this will enable the crunjob to run automatically every 3seconds without refreshing the page manually.
+  go to crunjob.php and comment out the first line with the below code , e.g remove the trailling double slashes at the begining of the code this will enable the crunjob to run automatically every 3seconds without refreshing the page manually.
                 
                 header("refresh: 3 url= ./crunjob.php");
   
@@ -28,7 +28,7 @@ A php script that automatically calculates investments , return the exact roi at
   
   you can add below line of code under the require "functions.php"; in index.php file for live trading without manually refreshing to see earned profits.
   
-                  header("refresh: 4 url= ./crunjob.php");
+                  header("refresh: 4 url= ./index.php");
                
   the database table will give u a clear insight on what to fill in your own datbase tables for investment
   calculations according to your site structure!
