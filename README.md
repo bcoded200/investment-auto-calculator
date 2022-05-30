@@ -38,6 +38,6 @@ A php script that automatically calculates investments , return the exact roi at
   also i can  help you convert the script to laravel eloquent query and
   install it in your laravel application
  
-  You can find me on telegram <a href='https://t.me/@codedweb' target='__blank'>@codedweb</a>  || Mail <a href='mailto:dakingeorge58@gmail.com'>Mail</a> || call <a href='+2348162791926'>Call</a>
+  You can find me on telegram <a href='https://t.me/@codedweb' target='__blank'>@codedweb</a>  || Mail <a href='mailto:dakingeorge58@gmail.com'>Mail</a>
   
   ##    https://www.codedwebltd.com
