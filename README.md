@@ -33,6 +33,9 @@ A php script that automatically calculates investments , return the exact roi at
   the database table will give u a clear insight on what to fill in your own datbase tables for investment
   calculations according to your site structure!
  
+![Screenshot (59)](https://user-images.githubusercontent.com/61075780/170985592-9e3de872-dbaa-4894-a30e-f4f1776b3189.png)
+
+
   if you find it difficult using this simple script,
   i can teach you how to use it on anydesk or zoom with a little token!
   also i can  help you convert the script to laravel eloquent query and
