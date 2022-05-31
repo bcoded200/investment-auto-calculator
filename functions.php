@@ -69,10 +69,8 @@ function getPercentage($PercentageAmount, $MoneyAmount): int
 {
 
    $count1 = ($PercentageAmount/100*$MoneyAmount/1);
-   $count2 = $count1;
-   $count = $count2;
-
-    return $count;
+  
+    return $count1;
 }
 
 
